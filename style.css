@@ -9,7 +9,13 @@ body {
 }
 ul {
     list-style-type: none;
+    display: flex;
+    gap: 20px
 }
 a {
     color: #F9FAF8;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
 }
