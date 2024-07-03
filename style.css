@@ -23,3 +23,12 @@ nav {
     display: flex;
     justify-content: space-between;
 }
+.container {
+    display: flex;
+    align-items: center;
+}
+.container div img {
+    width: 500px;
+    height: 250px;
+    border-radius: 8px;
+}
