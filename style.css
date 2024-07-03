@@ -75,5 +75,10 @@ nav {
 .cards .img div {
     text-align: center;
     align-self: baseline;
-
+}
+.middle .middleText {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    margin: 30px;
 }
