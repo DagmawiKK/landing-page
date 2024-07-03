@@ -32,3 +32,12 @@ nav {
     height: 250px;
     border-radius: 8px;
 }
+.description .header {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+.description .text {
+    color: #E5E7EB;
+    font-size: 18px;
+}
